@@ -1,6 +1,6 @@
 
 
-###Hidden Markov Model (HMM)
+### Hidden Markov Model (HMM)
 
 `hmm.r`
 
@@ -14,7 +14,7 @@
 
 - result of `hmm.xlsx`
 
-###Data
+### Data
 
 `gdp.xlsx`
 
